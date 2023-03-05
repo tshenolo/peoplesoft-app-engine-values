@@ -1,4 +1,4 @@
-# Peoplesoft - App Engine Variables
+# Peoplesoft - How to pass variable to an Application Engine
 All the required PeopleSoft objects to pass variables to an application engine program.
 
 Step by step instructions can be viewed at: https://tshenolo.me/blog/How-to-pass-variable-to-an-Application-Engine
