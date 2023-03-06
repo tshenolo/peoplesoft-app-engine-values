@@ -1,7 +1,7 @@
 # Peoplesoft - How to pass variable to an Application Engine
 All the required PeopleSoft objects to pass variables to an application engine program.
 
-Step by step instructions can be viewed at: https://tshenolo.me/blog/How-to-pass-variable-to-an-Application-Engine
+Step by step tutorial instructions can be viewed at: https://tshenolo.me/blog/How-to-pass-variable-to-an-Application-Engine
 
 ![Screenshot](screenshot.png)
 
@@ -149,7 +149,16 @@ MXM_APPENG_RC.DEBUG
 | Actions | Add, Update/Display |
 
 
+## Process Definition
 
+Navigation: PeopleTools > Process Scheduler > Processes  
+
+Process Type: Application Engine  
+Name: MXM_APPENG  
+
+Process Definition Options  
+Component: MXM_APPENG  
+Process Groups: TLSALL  
 
 
 
